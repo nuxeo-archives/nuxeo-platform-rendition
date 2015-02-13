@@ -1,0 +1,1 @@
+`nuxeo-platform-rendition` now lives in the main nuxeo (https://github.com/nuxeo/nuxeo) repository, in `nuxeo-features/nuxeo-platform-rendition`.
