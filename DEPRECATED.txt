@@ -1,1 +1,1 @@
-`nuxeo-platform-rendition` now lives in the main nuxeo (https://github.com/nuxeo/nuxeo) repository, in `nuxeo-features/nuxeo-platform-rendition`.
+The `nuxeo-platform-rendition` repository has been merged into the main Nuxeo repository (https://github.com/nuxeo/nuxeo), in `nuxeo-features/nuxeo-platform-rendition` directory.
